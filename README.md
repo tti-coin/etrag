@@ -1,5 +1,5 @@
-# etrask
-The source code for the paper "End-to-End Trainable Soft Retriever for Low-resource Relation Extraction".
+# etrag
+The source code for the paper "End-to-End Trainable Retrieval-Augmented Generation for Relation Extraction".
 
 ## Base code
 
